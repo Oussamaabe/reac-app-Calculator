@@ -1,0 +1,5 @@
+You can include Math.js in your project by either downloading the library from its official website or by using a package manager like npm or yarn:
+
+Using npm: npm install mathjs
+
+Using yarn : yarn add mathjs
